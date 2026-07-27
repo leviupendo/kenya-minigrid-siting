@@ -1,3 +1,8 @@
+# constituency_access_raw.csv
+# REAL DATA -- household electricity access % by constituency, all 47
+# counties, 2019 Kenya Population and Housing Census figures as compiled
+# and published by Stats Kenya:
+# https://statskenya.co.ke/at-stats-kenya/about/kenya-access-to-electricity-by-constituency-stats-kenya/82/
 county,constituency,access_pct
 Mombasa,Kisauni,83.1
 Mombasa,Nyali,88.3

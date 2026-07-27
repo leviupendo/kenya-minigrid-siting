@@ -52,7 +52,7 @@ import matplotlib.pyplot as plt
 
 
 def load_data(data_dir="data"):
-    access_raw = pd.read_csv(f"{data_dir}/constituency_access_raw.csv")
+    access_raw = pd.read_csv(f"{data_dir}/constituency_access_raw.csv", comment="#")
     county_access = (
         access_raw.groupby("county")["access_pct"]
         .mean()

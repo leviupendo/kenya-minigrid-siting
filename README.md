@@ -37,8 +37,8 @@ ranked, actionable shortlist. That's the first-principles gap this fills.
 
 | File | Source |
 |---|---|
-| `data/constituency_access_raw.csv` | Stats Kenya, "Kenya: Access to Electricity by Constituency," drawing on KNBS 2019 census + CRA County Fact Sheets (3rd ed.) |
-| `data/county_population.csv` | KNBS 2019 Kenya Population and Housing Census (Vol. I & II) + 2023 projections |
+| `data/constituency_access_raw.csv` | Stats Kenya, "Kenya: Access to Electricity by Constituency" — [statskenya.co.ke](https://statskenya.co.ke/at-stats-kenya/about/kenya-access-to-electricity-by-constituency-stats-kenya/82/), compiled from the 2019 Kenya Population and Housing Census |
+| `data/county_population.csv` | KNBS 2019 Kenya Population and Housing Census (Vol. I) + 2023 population projections |
 
 ## Running it
 
