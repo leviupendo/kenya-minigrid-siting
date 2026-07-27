@@ -1,0 +1,291 @@
+county,constituency,access_pct
+Mombasa,Kisauni,83.1
+Mombasa,Nyali,88.3
+Mombasa,Jomvu,81.8
+Mombasa,Changamwe,88.5
+Mombasa,Mvita,91.3
+Mombasa,Likoni,87.2
+Kwale,Kinango,16.8
+Kwale,Matuga,30.9
+Kwale,Msambweni,60.5
+Kwale,Lungalunga,14.9
+Kilifi,Magarini,15.3
+Kilifi,Malindi,57.6
+Kilifi,Ganze,5.9
+Kilifi,Kilifi North,42.8
+Kilifi,Kilifi South,55.7
+Kilifi,Kaloleni,32.8
+Kilifi,Rabai,35
+Tana River,Bura,29.9
+Tana River,Galole,31.5
+Tana River,Garsen,17.4
+Lamu,Lamu East,59.3
+Lamu,Lamu West,41.2
+Taita Taveta,Voi,60.4
+Taita Taveta,Wundanyi,46.2
+Taita Taveta,Mwatate,40.6
+Taita Taveta,Taveta,39.1
+Garissa,Lagdera,4.1
+Garissa,Balambala,11.4
+Garissa,Daadab,7.6
+Garissa,Garissa Township,89.4
+Garissa,Fafi,10.8
+Garissa,Ijara,9.6
+Wajir,Wajir North,9.9
+Wajir,Eldas,9
+Wajir,Tarbaj,0.9
+Wajir,Wajir East,47.8
+Wajir,Wajir West,8.1
+Wajir,Wajir South,10.3
+Mandera,Mandera East,48.1
+Mandera,Lafey,1.7
+Mandera,Mandera South,19.4
+Mandera,Mandera North,4.7
+Mandera,Banisa,0.8
+Mandera,Mandera West,8.2
+Marsabit,North Horr,1
+Marsabit,Laisamis,1.3
+Marsabit,Saku,50.3
+Marsabit,Moyale,32.2
+Isiolo,Isiolo North,51.8
+Isiolo,Isiolo South,16
+Meru,Igembe North,19.2
+Meru,Igembe Central,22.3
+Meru,Igembe South,36.9
+Meru,Tigania East,19.4
+Meru,Tigania West,24
+Meru,North Imenti,73.6
+Meru,Buuri,48.5
+Meru,Central Imenti,45.3
+Meru,South Imenti,54.6
+Tharaka Nithi,Maara,47.6
+Tharaka Nithi,Chuka/Igambang'Ombe,45.8
+Tharaka Nithi,Tharaka,7.9
+Embu,Runyenjes,53.9
+Embu,Manyatta,73.4
+Embu,Mbeere North,22.3
+Embu,Mbeere South,22.8
+Kitui,Mwingi North,5.2
+Kitui,Mwingi Central,21.5
+Kitui,Mwingi West,13.1
+Kitui,Kitui East,12.2
+Kitui,Kitui Central,40.6
+Kitui,Kitui West,22.3
+Kitui,Kitui Rural,10.9
+Kitui,Kitui South,6.3
+Machakos,Masinga,13
+Machakos,Yatta,23.9
+Machakos,Mwala,19.4
+Machakos,Matungulu,37.5
+Machakos,Kangundo,37
+Machakos,Kathiani,34.6
+Machakos,Mavoko,84.7
+Machakos,Machakos,60.5
+Makueni,Mbooni,12
+Makueni,Kaiti,15.9
+Makueni,Kilome,25.4
+Makueni,Makueni,22.1
+Makueni,Kibwezi West,29.7
+Makueni,Kibwezi East,16.3
+Nyandarua,Ndaragwa,30.8
+Nyandarua,Ol Jorok,48.1
+Nyandarua,Ol Kalou,48.2
+Nyandarua,Kipipiri,26.3
+Nyandarua,Kinangop,45.7
+Nyeri,Kieni,51.1
+Nyeri,Mathira,76.8
+Nyeri,Mukurweini,66.1
+Nyeri,Nyeri Town,88.8
+Nyeri,Tetu,77.9
+Nyeri,Othaya,82.3
+Kirinyaga,Gichugu,69.7
+Kirinyaga,Kirinyaga Central,75.5
+Kirinyaga,Ndia,61.9
+Kirinyaga,Mwea,61.3
+Murang'a,Mathioya,60.3
+Murang'a,Kangema,58.2
+Murang'a,Kigumo,57.5
+Murang'a,Gatanga,60.3
+Murang'a,Kiharu,61.3
+Murang'a,Kandara,67.4
+Murang'a,Maragwa,56.8
+Kiambu,Thika Town,92.7
+Kiambu,Juja,91.2
+Kiambu,Ruiru,95.5
+Kiambu,Gatundu North,80.6
+Kiambu,Gatundu South,90.7
+Kiambu,Githunguri,89.2
+Kiambu,Kiambu,95.8
+Kiambu,Kiambaa,93.6
+Kiambu,Lari,82.6
+Kiambu,Limuru,87.4
+Kiambu,Kabete,95.2
+Kiambu,Kikuyu,94
+Turkana,Turkana North,1.6
+Turkana,Turkana West,4.1
+Turkana,Turkana Central,26.6
+Turkana,Loima,1.4
+Turkana,Turkana South,6.1
+Turkana,Turkana East,1.5
+West Pokot,Kacheliba,1.7
+West Pokot,Kapenguria,27.2
+West Pokot,Pokot South,9.4
+West Pokot,Sigor,2.1
+Samburu,Samburu North,4.4
+Samburu,Samburu West,24.2
+Samburu,Samburu East,9.8
+Trans Nzoia,Endebess,19.2
+Trans Nzoia,Kwanza,35.9
+Trans Nzoia,Cherangany,28.6
+Trans Nzoia,Kiminini,47.1
+Trans Nzoia,Saboti,48.5
+Uasin Gishu,Soy,47.9
+Uasin Gishu,Turbo,70.1
+Uasin Gishu,Moiben,62
+Uasin Gishu,Kapseret,77.7
+Uasin Gishu,Kesses,57.9
+Uasin Gishu,Ainabkoi,64.7
+Elgeyo Marakwet,Keiyo North,41.1
+Elgeyo Marakwet,Keiyo South,31.4
+Elgeyo Marakwet,Marakwet East,8.9
+Elgeyo Marakwet,Marakwet West,17.9
+Nandi,Mosop,18.1
+Nandi,Chesumei,44.8
+Nandi,Emgwen,40.5
+Nandi,Aldai,26.4
+Nandi,Nandi Hills,34.5
+Nandi,Tinderet,14.1
+Baringo,Tiaty,2.5
+Baringo,Baringo North,20.9
+Baringo,Baringo Central,49.2
+Baringo,Baringo South,23
+Baringo,Eldama Ravine,48.9
+Baringo,Mogotio,22.1
+Laikipia,Laikipia North,14.2
+Laikipia,Laikipia East,60.3
+Laikipia,Laikipia West,39.3
+Nakuru,Subukia,38.3
+Nakuru,Rongai,56.6
+Nakuru,Bahati,83.3
+Nakuru,Nakuru Town West,91.9
+Nakuru,Nakuru Town East,95.2
+Nakuru,Gilgil,55.3
+Nakuru,Naivasha,77.7
+Nakuru,Njoro,51.2
+Nakuru,Molo,55.9
+Nakuru,Kuresoi South,18.2
+Nakuru,Kuresoi North,19.5
+Narok,Narok North,43
+Narok,Narok East,23.9
+Narok,Narok South,9
+Narok,Narok West,6.6
+Narok,Kilgoris,14.8
+Narok,Emurua Dikirr,8.9
+Kajiado,Kajiado North,95.2
+Kajiado,Kajiado West,40.2
+Kajiado,Kajiado East,77.3
+Kajiado,Kajiado Central,41.6
+Kajiado,Kajiado South,36.5
+Kericho,Kipkelion East,34.3
+Kericho,Kipkelion West,19.1
+Kericho,Ainamoi,59.8
+Kericho,Belgut,60.6
+Kericho,Sigowet/Soin,32.4
+Kericho,Bureti,48.4
+Bomet,Konoin,33.2
+Bomet,Bomet Central,28.4
+Bomet,Sotik,26.2
+Bomet,Bomet East,13
+Bomet,Chepalungu,8.9
+Kakamega,Likuyani,33
+Kakamega,Lugari,19.6
+Kakamega,Malava,13.9
+Kakamega,Shinyalu,27.1
+Kakamega,Navakholo,11.5
+Kakamega,Lurambi,62.5
+Kakamega,Ikolomani,27.6
+Kakamega,Matungu,11.1
+Kakamega,Mumias East,18.8
+Kakamega,Mumias West,29.6
+Kakamega,Butere,17
+Kakamega,Khwisero,16.6
+Vihiga,Hamisi,37.9
+Vihiga,Sabatia,48.9
+Vihiga,Vihiga,40.9
+Vihiga,Luanda,36.8
+Vihiga,Emuhaya,25.7
+Bungoma,Mt. Elgon,10.6
+Bungoma,Sirisia,12
+Bungoma,Bumula,10
+Bungoma,Kabuchai,17.4
+Bungoma,Kanduyi,44.5
+Bungoma,Kimilili,20.8
+Bungoma,Webuye West,24
+Bungoma,Webuye East,26.2
+Bungoma,Tongaren,15.4
+Busia,Teso North,23.4
+Busia,Teso South,27.8
+Busia,Nambale,17.2
+Busia,Matayos,41.4
+Busia,Butula,16.9
+Busia,Funyula,21.4
+Busia,Budalangi,33.6
+Siaya,Ugenya,15.5
+Siaya,Ugunja,22.2
+Siaya,Alego Usonga,21
+Siaya,Gem,19.5
+Siaya,Bondo,24
+Siaya,Rarieda,13.2
+Kisumu,Muhoroni,28.3
+Kisumu,Nyando,33.8
+Kisumu,Nyakach,27.5
+Kisumu,Kisumu East,75.8
+Kisumu,Kisumu Central,91.3
+Kisumu,Kisumu West,55
+Kisumu,Seme,19.2
+Homa Bay,Suba,10.6
+Homa Bay,Mbita,17.9
+Homa Bay,Ndhiwa,7.5
+Homa Bay,Homa Bay Town,41.4
+Homa Bay,Rangwe,17.3
+Homa Bay,Karachuonyo,15.6
+Homa Bay,Kasipul,27.8
+Homa Bay,Kabondo Kasipul,17.1
+Migori,Rongo,35.2
+Migori,Awendo,27.8
+Migori,Uriri,13
+Migori,Suna East,31.3
+Migori,Suna West,31.5
+Migori,Kuria West,29.7
+Migori,Kuria East,9
+Migori,Nyatike,10.3
+Kisii,Kitutu Chache North,24.3
+Kisii,Kitutu Chache South,64.2
+Kisii,Bonchari,47.5
+Kisii,Nyaribari Chache,63.8
+Kisii,Nyaribari Masaba,32.4
+Kisii,Bobasi,29.8
+Kisii,Bomachoge Chache,32.8
+Kisii,Bomachoge Borabu,26.3
+Kisii,South Mugirango,19.7
+Nyamira,North Mugirango,35.8
+Nyamira,West Mugirango,49.2
+Nyamira,Kitutu Masaba,42.5
+Nyamira,Borabu,44
+Nairobi,Kasarani,96.7
+Nairobi,Roysambu,97.4
+Nairobi,Ruaraka,96
+Nairobi,Embakasi North,97.5
+Nairobi,Embakasi Central,98.3
+Nairobi,Embakasi West,99.1
+Nairobi,Mathare,95.6
+Nairobi,Kamukunji,96
+Nairobi,Makadara,95.8
+Nairobi,Embakasi East,97.6
+Nairobi,Embakasi South,95.9
+Nairobi,Westlands,96.7
+Nairobi,Dagoretti North,96.7
+Nairobi,Dagoretti South,98
+Nairobi,Starehe,97
+Nairobi,Kibra,94.1
+Nairobi,Langata,93.8
