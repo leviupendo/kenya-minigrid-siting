@@ -1,0 +1,71 @@
+# county_grid_remoteness.csv
+# REAL DATA -- official Government of Kenya / World Bank grid-remoteness
+# classification, not an estimate or proxy built from GIS distance rasters.
+#
+# Source: the Kenya Off-Grid Solar Access Project (KOSAP) -- a joint
+# Ministry of Energy / Kenya Power (KPLC) / World Bank program that
+# formally designated 14 of Kenya's 47 counties as the ones "with limited
+# or no connection to the national grid," based on the Commission on
+# Revenue Allocation's own marginalization criteria and KPLC's national
+# grid network data. This is a real, government-vetted classification of
+# actual grid remoteness -- not something derived by us.
+# https://www.kplc.co.ke/kosap
+#
+# kosap_designated = 1 means the county is one of the 14 officially
+# classified as underserved/far from grid infrastructure. 0 means it is
+# not on that list (i.e., closer to or better served by the existing
+# national grid network).
+#
+# METHODOLOGY NOTE: this is a real but BINARY classification (on the list
+# or not) -- it is not a continuous "distance in km to nearest grid line"
+# value, which would require actual KPLC network GIS shapefiles that
+# aren't publicly accessible. Treat this as "officially recognized as
+# grid-remote" rather than a precise distance measurement.
+county,kosap_designated
+Garissa,1
+Isiolo,1
+Kilifi,1
+Kwale,1
+Lamu,1
+Mandera,1
+Marsabit,1
+Narok,1
+Samburu,1
+Taita Taveta,1
+Tana River,1
+Turkana,1
+Wajir,1
+West Pokot,1
+Mombasa,0
+Tharaka Nithi,0
+Embu,0
+Kitui,0
+Machakos,0
+Makueni,0
+Nyandarua,0
+Nyeri,0
+Kirinyaga,0
+Murang'a,0
+Kiambu,0
+Elgeyo Marakwet,0
+Nandi,0
+Baringo,0
+Laikipia,0
+Nakuru,0
+Kajiado,0
+Kericho,0
+Bomet,0
+Kakamega,0
+Vihiga,0
+Bungoma,0
+Busia,0
+Siaya,0
+Kisumu,0
+Homa Bay,0
+Migori,0
+Kisii,0
+Nyamira,0
+Nairobi,0
+Meru,0
+Trans Nzoia,0
+Uasin Gishu,0
